@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+html{
+
+}
+.grid-container{
+    background: rgb(182, 177, 177);
+
+}
